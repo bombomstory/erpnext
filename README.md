@@ -26,7 +26,7 @@
 	<a href="https://docs.frappe.io/erpnext/">Documentation</a>
 </div>
 
-## ERPNext
+## Paitoon ERPNext
 
 100% Open-Source ERP system to help you run your business.
 
